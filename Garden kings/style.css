@@ -1,0 +1,70 @@
+header {
+    background-color: #216d0e;
+    margin-bottom: 0px;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+    float: right;
+    margin-top: 35px;
+}
+nav li a {
+color: white;
+padding: 14px 150px ;
+text-decoration: none;
+}
+.intro-block{
+
+}
+#intro{
+    background:black url(img/mowing.jpg) no-repeat center;
+    background-size: cover ;
+    padding-bottom: 60px;
+    padding-top: 200px;
+}
+h1{
+font-size: 60px;
+font-family: 'Arial' , sans-serif; 
+margin-bottom:250px;
+color: white;
+}
+h2{
+    font-size: 30px;
+font-family: 'Arial' , sans-serif; 
+color: white;
+}
+.intro-block img {
+    border-radius: 20px;
+    border: solid 1px #000;
+    margin: 30px;
+}
+footer{
+    text-align: center;
+    background-color: #091f00;
+    color: white;
+    padding: 20px;
+}
+
+#semamo{
+    background:black url(img/contact-hero.jpg) no-repeat center;
+    background-size: cover ;
+    padding-bottom: 900px;
+    padding-top: 200px;
+}
+.button {
+    color:#003b63;
+   font-size:19px;
+    margin: 30px 5px;
+    padding: 15px 15px;
+    border: 2px solid #003b63;
+    min-width: 150px;
+    text-decoration: none;
+   }
+
+   .button:hover{
+    background-color:yellow;
+   }
