@@ -1,0 +1,19 @@
+header {
+    background-color: #216d0e;
+    margin-bottom: 50px;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+    float: right;
+    margin-top: 35px;
+}
+nav li a {
+color: white;
+padding: 14px 150px ;
+text-decoration: none;
+}
