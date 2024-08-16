@@ -48,23 +48,47 @@ footer{
     color: white;
     padding: 20px;
 }
-
 #semamo{
     background:black url(img/contact-hero.jpg) no-repeat center;
     background-size: cover ;
-    padding-bottom: 900px;
+    padding-bottom: 60px;
     padding-top: 200px;
 }
 .button {
-    color:#003b63;
+    color:#ffffff;
    font-size:19px;
-    margin: 30px 5px;
+    margin: 30px 20px;
     padding: 15px 15px;
-    border: 2px solid #003b63;
+    border: 2px solid #ffffff;
     min-width: 150px;
     text-decoration: none;
+    background-color: #4e913d;
    }
 
    .button:hover{
-    background-color:yellow;
+    background-color:rgb(13, 71, 11);
    }
+   .semamo-block{
+    padding-top: 50px;
+    padding-bottom: 50px ;
+    text-align: center ;
+    background-color: #93d3e7d3 ;
+    margin-top: 400px ;
+}
+#noce{
+color: #000;
+}
+#ne{
+    color: #000;
+    text-align: center;
+    padding-top: 900px;
+}
+#si{
+    font-size: 50px;
+    font-family: 'Arial' , sans-serif; 
+    text-align:center ;
+    padding-bottom: 100px;
+}
+#se{
+    color: #000000;
+}
